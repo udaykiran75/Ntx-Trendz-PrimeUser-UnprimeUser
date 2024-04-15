@@ -1,3 +1,11 @@
+**PRIME USER CREDENTIAL**
+username: rahul
+password: rahul@2021
+
+**UNPRIME USER CREDENATIAL**
+username: raja
+password: raja@2021
+
 # Authentication & Authorization | Part 4
 
 - Integrating APIs
